@@ -1,0 +1,2341 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated for CytoRegenx — WordPress-compatible WXR import file -->
+<!-- Import via: Tools → Import → WordPress (install the WordPress Importer plugin) -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+	<title>CytoRegenx</title>
+	<link>https://cytoregenx.com</link>
+	<description>Advancing medicine through laser-activated cell therapy</description>
+	<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://cytoregenx.com</wp:base_site_url>
+	<wp:base_blog_url>https://cytoregenx.com</wp:base_blog_url>
+
+	<wp:author>
+		<wp:author_id>1</wp:author_id>
+		<wp:author_login><![CDATA[116154pwpadmin]]></wp:author_login>
+		<wp:author_email><![CDATA[info@cytoregenx.com]]></wp:author_email>
+		<wp:author_display_name><![CDATA[CytoRegenx Admin]]></wp:author_display_name>
+		<wp:author_first_name><![CDATA[]]></wp:author_first_name>
+		<wp:author_last_name><![CDATA[]]></wp:author_last_name>
+	</wp:author>
+
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+
+	<wp:term>
+		<wp:term_id>100</wp:term_id>
+		<wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+		<wp:term_slug><![CDATA[main-menu]]></wp:term_slug>
+		<wp:term_name><![CDATA[Main Menu]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>101</wp:term_id>
+		<wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer-menu]]></wp:term_slug>
+		<wp:term_name><![CDATA[Footer Menu]]></wp:term_name>
+	</wp:term>
+
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+	<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://cytoregenx.com/home/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":60,"overlayColor":"black","minHeight":560,"minHeightUnit":"px","contentPosition":"center center","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(14,44,64) 0%,rgb(10,77,100) 50%,rgb(15,111,143) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(14,44,64) 0%,rgb(10,77,100) 50%,rgb(15,111,143) 100%);min-height:560px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"56px","fontWeight":"700","lineHeight":"1.1"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="color:#ffffff;font-size:56px;font-weight:700;line-height:1.1">Pioneering Cell-Based<br>Regenerative Therapies</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px","lineHeight":"1.6"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center" style="color:#e0f0f8;font-size:20px;line-height:1.6">Laser-activated platelet lysate and bone marrow stromal cell therapies<br>from an FDA-registered, cGMP-compliant facility — for chronic pain, orthopedic injury, and wound healing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"white","textColor":"black","style":{"border":{"radius":"4px"},"typography":{"fontWeight":"600"},"spacing":{"padding":{"left":"32px","right":"32px","top":"16px","bottom":"16px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background wp-element-button" href="/our-services/" style="border-radius:4px;padding-top:16px;padding-right:32px;padding-bottom:16px;padding-left:32px;font-weight:600">Explore Our Therapies</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"white","style":{"border":{"radius":"4px","width":"2px","color":"#ffffff"},"typography":{"fontWeight":"600"},"spacing":{"padding":{"left":"32px","right":"32px","top":"14px","bottom":"14px"}}},"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-white-color has-text-color has-border-color wp-element-button" href="/contact-us/" style="border-color:#ffffff;border-width:2px;border-radius:4px;padding-top:14px;padding-right:32px;padding-bottom:14px;padding-left:32px;font-weight:600">Contact Our Team</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"40px","fontWeight":"700"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:40px;font-weight:700">Healing Through Innovation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","lineHeight":"1.7"}}} -->
+<p class="has-text-align-center" style="font-size:18px;line-height:1.7">At CytoRegenx, we combine <strong>patented laser-activation technology</strong> with autologous cell biology to produce next-generation regenerative therapies. Our proprietary <strong>Laser Activated Platelet Lysate (LAPL)</strong> and <strong>Bone Marrow Stromal Cell (BMSC)</strong> products are manufactured under strict cGMP standards and delivered to clinicians nationwide.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:34px">Our Therapies</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide">
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"32px","right":"28px","bottom":"32px","left":"28px"}},"border":{"radius":"8px","width":"1px","color":"#e0e6eb"},"color":{"background":"#f7fafc"}}} -->
+<div class="wp-block-column has-background" style="border-color:#e0e6eb;border-width:1px;border-radius:8px;background-color:#f7fafc;padding-top:32px;padding-right:28px;padding-bottom:32px;padding-left:28px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0e2c40"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0e2c40">LAPL Epidural Injection</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Advanced regenerative therapy for lower back pain. Laser-activated platelet lysate delivers high concentrations of neurotrophic factors (NGF, BDNF) for nerve regeneration — without steroids.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="/lapl-epidural-lower-back-pain/"><strong>Learn more →</strong></a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"32px","right":"28px","bottom":"32px","left":"28px"}},"border":{"radius":"8px","width":"1px","color":"#e0e6eb"},"color":{"background":"#f7fafc"}}} -->
+<div class="wp-block-column has-background" style="border-color:#e0e6eb;border-width:1px;border-radius:8px;background-color:#f7fafc;padding-top:32px;padding-right:28px;padding-bottom:32px;padding-left:28px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0e2c40"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0e2c40">BMSC + LAPL Orthopedic</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Bone Marrow Stromal Cells combined with LAPL for treatment of disc degeneration, osteoarthritis, and joint disease of the knee, shoulder, and elbow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="/bmsc-lapl-orthopedic/"><strong>Learn more →</strong></a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"32px","right":"28px","bottom":"32px","left":"28px"}},"border":{"radius":"8px","width":"1px","color":"#e0e6eb"},"color":{"background":"#f7fafc"}}} -->
+<div class="wp-block-column has-background" style="border-color:#e0e6eb;border-width:1px;border-radius:8px;background-color:#f7fafc;padding-top:32px;padding-right:28px;padding-bottom:32px;padding-left:28px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0e2c40"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0e2c40">DERMATOGEN® Wound Healing</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A collagen + LAPL hydrogel for chronic and acute wound care. Accelerates healing of diabetic ulcers, venous leg ulcers, surgical incisions, burns, and trauma wounds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="/dermatogen-wound-healing/"><strong>Learn more →</strong></a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#0e2c40"},"spacing":{"padding":{"top":"70px","bottom":"70px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#0e2c40;padding-top:70px;padding-right:32px;padding-bottom:70px;padding-left:32px">
+<!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:34px">Why CytoRegenx?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#7fd5ea"},"typography":{"fontSize":"48px","fontWeight":"700"}}} -->
+<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#7fd5ea;font-size:48px;font-weight:700">FDA</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8">Registered cGMP compliant cell processing facility</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#7fd5ea"},"typography":{"fontSize":"48px","fontWeight":"700"}}} -->
+<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#7fd5ea;font-size:48px;font-weight:700">Patented</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8">Low-Level Laser activation of platelets for enhanced cytokine release</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#7fd5ea"},"typography":{"fontSize":"48px","fontWeight":"700"}}} -->
+<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#7fd5ea;font-size:48px;font-weight:700">Autologous</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8">Derived from the patient's own blood and bone marrow — safe and natural</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#7fd5ea"},"typography":{"fontSize":"48px","fontWeight":"700"}}} -->
+<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#7fd5ea;font-size:48px;font-weight:700">Validated</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8">Known cytokine profile, verified sterility, and endotoxin-tested</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%">
+<!-- wp:heading {"style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading" style="font-size:34px">The Science of Laser Activation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"}}} -->
+<p style="font-size:17px;line-height:1.7">Low-Level Laser (LLL) irradiation of platelets triggers exocytosis and the release of a rich cocktail of growth factors — including PDGF, TGF-β, IGF-I, VEGF, FGF, and ATP — at concentrations significantly higher than conventional PRP.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"}}} -->
+<p style="font-size:17px;line-height:1.7">The result is an acellular, injectable product with amplified regenerative, anti-inflammatory, and neurotrophic potential. LAPL can be kept frozen for up to a year without losing potency, and integrates seamlessly into clinical workflows.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"vivid-cyan-blue","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-background-color has-background wp-element-button" href="/research-innovation/" style="border-radius:4px">Research &amp; Innovation</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%">
+<!-- wp:group {"style":{"color":{"background":"#eaf6fa"},"spacing":{"padding":{"top":"28px","right":"28px","bottom":"28px","left":"28px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-group has-background" style="border-radius:8px;background-color:#eaf6fa;padding-top:28px;padding-right:28px;padding-bottom:28px;padding-left:28px">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0e2c40"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0e2c40">LAPL vs. Steroid Injection</h4>
+<!-- /wp:heading -->
+
+<!-- wp:table {"className":"is-style-stripes"} -->
+<figure class="wp-block-table is-style-stripes"><table><thead><tr><th></th><th>Steroids</th><th>LAPL</th></tr></thead><tbody><tr><td>Anti-inflammation</td><td>✓</td><td>✓</td></tr><tr><td>Analgesic</td><td>—</td><td>✓</td></tr><tr><td>Nerve regeneration</td><td>—</td><td>✓</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"70px"} -->
+<div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"70px","bottom":"70px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#f7fafc;padding-top:70px;padding-right:32px;padding-bottom:70px;padding-left:32px">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:34px">For Clinicians</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+<p class="has-text-align-center" style="font-size:18px">Simple blood-draw workflow. Same-day shipping. Dedicated courier service throughout Orange County.<br>Prepaid labels for clinics nationwide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-background-color has-background wp-element-button" href="/for-clinicians/" style="border-radius:4px">Clinician Resources</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1001</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[About CytoRegenx]]></title>
+		<link>https://cytoregenx.com/about-cytoregenx/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1002</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":50,"overlayColor":"black","minHeight":340,"minHeightUnit":"px","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%);min-height:340px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-50 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"48px","fontWeight":"700"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:48px;font-weight:700">About CytoRegenx</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:20px">Advancing medicine through laser-activated cell therapy</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"38px"}}} -->
+<h2 class="wp-block-heading" style="font-size:38px">Pioneering Cell-Based Health Therapies</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px","lineHeight":"1.75"}}} -->
+<p style="font-size:18px;line-height:1.75">CytoRegenx is dedicated to advancing medicine through innovative cell-based health therapies. We specialize in using <strong>laser-activated platelet lysate</strong> and <strong>cGMP-produced stem cell</strong> products to help patients suffering from chronic debilitating diseases, orthopedic injuries, and non-healing wounds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px","lineHeight":"1.75"}}} -->
+<p style="font-size:18px;line-height:1.75">Our therapies begin with the patient's own biology — blood or bone marrow — and enhance it through our patented laser-activation process. The result is a safe, natural, and concentrated regenerative product with a validated cytokine profile, verified sterility, and proven shelf life.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"50px","right":"40px","bottom":"50px","left":"40px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:50px;padding-right:40px;padding-bottom:50px;padding-left:40px">
+<!-- wp:heading {"style":{"typography":{"fontSize":"32px"}}} -->
+<h2 class="wp-block-heading" style="font-size:32px">Our Trailblazing Achievements</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"}}} -->
+<p style="font-size:17px;line-height:1.7">As a leader in the field of regenerative medicine, we have achieved several milestones that reflect our commitment to excellence:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li><strong>Patented technology</strong> for laser activation of platelets</li><li><strong>Proprietary combination products</strong> — platelet lysate with stem cells for enhanced therapeutic potential</li><li><strong>FDA-registered, cGMP-compliant</strong> cell processing facility</li><li><strong>Validated products</strong> with known cytokine profile, sterility, and endotoxin testing</li><li><strong>Year-long stability</strong> — frozen products maintain potency without degradation</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:34px">Our Core Therapies</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64">Bone Marrow Stromal Cells (BMSCs)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Act as stem cells capable of creating bone, cartilage, and other tissues</li><li>Differentiate into osteocytes, chondrocytes, adipocytes, and fibroblasts — versatile for orthopedic repair</li><li>Can differentiate into nucleus pulposus cells and promote healing of spinal discs</li><li><strong>Promote healing of articular cartilage and spinal disc tissue</strong></li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64">Laser Activated Platelet Lysate (LAPL)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Made of concentrated platelets with plasma and blood cells removed</li><li>Rich in growth factors that stimulate tissue regeneration and reduce inflammation</li><li>Low-Level Laser activation enhances growth factor and ATP release</li><li><strong>Direct regenerative effects and synergistic action with BMSCs</strong></li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#0e2c40"},"spacing":{"padding":{"top":"60px","bottom":"60px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#0e2c40;padding-top:60px;padding-right:32px;padding-bottom:60px;padding-left:32px">
+<!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontSize":"32px"}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:32px">Explore Our Services</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#e0f0f8"},"typography":{"fontSize":"18px"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:18px">Our innovative cell-based health therapies are designed to deliver the best possible patient outcomes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"white","textColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background wp-element-button" href="/our-services/" style="border-radius:4px">Discover Our Services</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1002</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-cytoregenx]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Our Services]]></title>
+		<link>https://cytoregenx.com/our-services/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1003</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":50,"overlayColor":"black","minHeight":340,"minHeightUnit":"px","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%);min-height:340px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-50 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"48px","fontWeight":"700"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:48px;font-weight:700">Our Services</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:20px">Innovative regenerative medical solutions, delivered from a cGMP-compliant facility</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"38px"}}} -->
+<h2 class="wp-block-heading" style="font-size:38px">Innovative Regenerative Medical Solutions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px","lineHeight":"1.75"}}} -->
+<p style="font-size:18px;line-height:1.75">At CytoRegenx, we offer cutting-edge regenerative medical solutions designed to enhance the quality of life for patients dealing with chronic pain, orthopedic injuries, and non-healing wounds. Our focus is on leveraging advanced laser-activated cell products in a <strong>cGMP-compliant facility</strong> to ensure patient safety and superior health outcomes.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:34px">Our Three Core Products</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}},"border":{"radius":"8px","width":"1px","color":"#e0e6eb"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-color:#e0e6eb;border-width:1px;border-radius:8px;background-color:#f7fafc;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"},"typography":{"fontSize":"28px"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64;font-size:28px">LAPL Epidural Injection</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"},"color":{"text":"#64748b"}}} -->
+<p class="has-text-color" style="color:#64748b;font-size:14px"><strong>Indication:</strong> Lower Back Pain / Radicular Pain</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A non-invasive regenerative therapy delivered epidurally for radicular pain and lumbar disc-related conditions. Rich in neurotrophic factors (NGF, BDNF), LAPL offers anti-inflammation, pain relief, AND nerve regeneration — capabilities that steroids cannot match.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"30%","verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%">
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-background-color has-background wp-element-button" href="/lapl-epidural-lower-back-pain/" style="border-radius:4px">Learn More</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}},"border":{"radius":"8px","width":"1px","color":"#e0e6eb"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-color:#e0e6eb;border-width:1px;border-radius:8px;background-color:#f7fafc;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"},"typography":{"fontSize":"28px"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64;font-size:28px">BMSC + LAPL Orthopedic Therapy</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"},"color":{"text":"#64748b"}}} -->
+<p class="has-text-color" style="color:#64748b;font-size:14px"><strong>Indications:</strong> Disc disease (IVDD, bulging, annular tears), osteoarthritis, knee/shoulder/elbow</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A proprietary combination product: autologous Bone Marrow Stromal Cells supplemented with cytokine-rich Laser Activated Platelet Lysate. Enhances chondrocyte proliferation, promotes cartilage and disc repair, and decreases pain, inflammation, and cartilage destruction.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"30%","verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%">
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-background-color has-background wp-element-button" href="/bmsc-lapl-orthopedic/" style="border-radius:4px">Learn More</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}},"border":{"radius":"8px","width":"1px","color":"#e0e6eb"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-color:#e0e6eb;border-width:1px;border-radius:8px;background-color:#f7fafc;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"},"typography":{"fontSize":"28px"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64;font-size:28px">DERMATOGEN® Wound Healing</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"},"color":{"text":"#64748b"}}} -->
+<p class="has-text-color" style="color:#64748b;font-size:14px"><strong>Indications:</strong> Diabetic foot ulcers, venous leg ulcers, pressure sores, burns, surgical &amp; traumatic wounds</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An injectable and topical collagen-LAPL hydrogel. The collagen matrix retains moisture and allows gradual release of LAPL's active ingredients — EGF, FGF, PDGF, VEGF — for accelerated wound closure and minimal scarring.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"30%","verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%">
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-background-color has-background wp-element-button" href="/dermatogen-wound-healing/" style="border-radius:4px">Learn More</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"70px"} -->
+<div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:34px">What Makes Our Approach Different</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3}-->
+<h3 class="wp-block-heading">Laser-Activated Cell Products</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Precision laser activation enhances cellular effectiveness for improved therapeutic performance — boosting growth factor release and ATP output beyond what standard PRP can achieve.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3}-->
+<h3 class="wp-block-heading">cGMP-Produced Cell Products</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>All products are developed under strict current Good Manufacturing Practices (cGMP) to ensure safety, consistency, and high standards of quality — in an FDA-registered facility.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3}-->
+<h3 class="wp-block-heading">Validated &amp; Tested</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Every batch is validated with known cytokine profile, verified sterility, and endotoxin testing — so clinicians and patients get reliable, reproducible results.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#eaf6fa"},"spacing":{"padding":{"top":"60px","bottom":"60px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#eaf6fa;padding-top:60px;padding-right:32px;padding-bottom:60px;padding-left:32px">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"30px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:30px">The Science Behind Our Therapies</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}}} -->
+<p class="has-text-align-center" style="font-size:18px">Understanding the transformative power of our regenerative medical solutions is essential for patients and clinicians seeking effective treatments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-background-color has-background wp-element-button" href="/research-innovation/" style="border-radius:4px">Explore Our Research</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1003</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[our-services]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[LAPL Epidural Injection for Lower Back Pain]]></title>
+		<link>https://cytoregenx.com/lapl-epidural-lower-back-pain/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1004</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":55,"overlayColor":"black","minHeight":360,"minHeightUnit":"px","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(122,26,65) 0%,rgb(14,44,64) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(122,26,65) 0%,rgb(14,44,64) 100%);min-height:360px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px","letterSpacing":"3px"},"color":{"text":"#7fd5ea"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#7fd5ea;font-size:14px;letter-spacing:3px">REGENERATIVE THERAPY</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"48px","fontWeight":"700","lineHeight":"1.15"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:48px;font-weight:700;line-height:1.15">Laser Activated Platelet Lysate<br>for Lower Back Pain</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:20px">An epidural regenerative therapy that goes beyond steroids</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading" style="font-size:34px">What is CytoRegenx Regenerative Therapy?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li>A non-invasive treatment derived from the patient's own blood — safe, natural, and free from added chemicals.</li><li>Using our patented technology, platelets are enriched and activated by low-level laser. After activation, the platelet lysate (PL) is produced.</li><li>The end product — <strong>Laser Activated Platelet Lysate (LAPL)</strong> — is free from plasma, cells, and cell debris, but contains a high concentration of regenerative cytokines and growth factors.</li><li>Patients treated with PL epidurals reported significant improvement in pain and subjective improvements through 2-year follow-up (Centeno et al., 2017).</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"50px","right":"40px","bottom":"50px","left":"40px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:50px;padding-right:40px;padding-bottom:50px;padding-left:40px">
+<!-- wp:heading {"style":{"typography":{"fontSize":"30px"}}} -->
+<h2 class="wp-block-heading" style="font-size:30px">Three Mechanisms of Action</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After epidural administration, LAPL's factors exert their effects through three distinct mechanisms:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"style":{"color":{"background":"#ffffff"},"spacing":{"padding":{"top":"24px","right":"24px","bottom":"24px","left":"24px"}},"border":{"radius":"6px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:6px;background-color:#ffffff;padding-top:24px;padding-right:24px;padding-bottom:24px;padding-left:24px">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0a4d64"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0a4d64">1. Subsiding Pain</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Analgesic cytokines reduce pain signaling at the site of injection.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#ffffff"},"spacing":{"padding":{"top":"24px","right":"24px","bottom":"24px","left":"24px"}},"border":{"radius":"6px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:6px;background-color:#ffffff;padding-top:24px;padding-right:24px;padding-bottom:24px;padding-left:24px">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0a4d64"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0a4d64">2. Reducing Inflammation</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Anti-inflammatory factors help calm the inflamed nerve root and surrounding tissue.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#ffffff"},"spacing":{"padding":{"top":"24px","right":"24px","bottom":"24px","left":"24px"}},"border":{"radius":"6px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:6px;background-color:#ffffff;padding-top:24px;padding-right:24px;padding-bottom:24px;padding-left:24px">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0a4d64"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0a4d64">3. Nerve Regeneration</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>NGF and BDNF neurotrophic factors drive regeneration of damaged spinal nerves.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading" style="font-size:34px">The CytoRegenx Unique Approach</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li><strong>Low-Level Laser (LLL) activation</strong> of platelets enhances the production and release of growth factors and ATP in platelet lysate.</li><li>LAPL contains <strong>exosomes and a high concentration of growth factors</strong> that stimulate tissue regeneration and healing at the treated area.</li><li>LAPL can also <strong>reduce inflammation and pain</strong> at the site of injection.</li><li>LAPL contains neurotrophic factors — <strong>Nerve Growth Factor (NGF)</strong> and <strong>Brain Derived Neurotrophic Factor (BDNF)</strong> — with direct regenerative effects on spinal nerves.</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"30px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:30px">LAPL vs. Steroid Injection</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Steroids have been the standard of care for decades — but they only address inflammation. LAPL offers a fundamentally different therapeutic profile.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"className":"is-style-stripes","align":"wide","style":{"typography":{"fontSize":"17px"}}} -->
+<figure class="wp-block-table alignwide is-style-stripes" style="font-size:17px"><table><thead><tr><th>Therapy</th><th>Anti-inflammation</th><th>Analgesic</th><th>Nerve Regeneration</th></tr></thead><tbody><tr><td><strong>Steroids</strong></td><td>✓ Yes</td><td>✗ No</td><td>✗ No</td></tr><tr><td><strong>LAPL</strong></td><td>✓ Yes</td><td>✓ Yes</td><td>✓ Yes</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#0e2c40"},"spacing":{"padding":{"top":"60px","bottom":"60px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#0e2c40;padding-top:60px;padding-right:32px;padding-bottom:60px;padding-left:32px">
+<!-- wp:heading {"style":{"color":{"text":"#ffffff"},"typography":{"fontSize":"30px"}},"align":"wide"} -->
+<h2 class="wp-block-heading alignwide has-text-color" style="color:#ffffff;font-size:30px">Our Patented Technology</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:list {"style":{"color":{"text":"#e0f0f8"},"typography":{"fontSize":"16px","lineHeight":"1.8"}}} -->
+<ul class="has-text-color" style="color:#e0f0f8;font-size:16px;line-height:1.8"><li>FDA-registered, cGMP-compliant cell processing facility</li><li>Validated products with known cytokine profile, verified sterility, and endotoxin level</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:list {"style":{"color":{"text":"#e0f0f8"},"typography":{"fontSize":"16px","lineHeight":"1.8"}}} -->
+<ul class="has-text-color" style="color:#e0f0f8;font-size:16px;line-height:1.8"><li>Acellular injectable solution with concentrated cytokines and ATP, customized for epidural administration</li><li>Product can be kept frozen up to a year without losing potency</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"30px"}}} -->
+<h2 class="wp-block-heading" style="font-size:30px">Blood Collection &amp; Shipment</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li>A <strong>30 mL sample of the patient's whole blood</strong> is drawn into a designated PRP collection tube, which we supply.</li><li>Blood is sent to CytoRegenx the same day in a validated shipper box (also provided).</li><li><strong>Orange County clinics:</strong> a dedicated courier retrieves the specimen directly.</li><li><strong>Clinics outside Orange County:</strong> a prepaid shipping label is issued for seamless pickup through an approved carrier.</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#fff8e8"},"spacing":{"padding":{"top":"28px","right":"28px","bottom":"28px","left":"28px"}},"border":{"radius":"6px","width":"1px","color":"#f5d07a"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-color:#f5d07a;border-width:1px;border-radius:6px;background-color:#fff8e8;padding-top:28px;padding-right:28px;padding-bottom:28px;padding-left:28px">
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px","fontStyle":"italic","fontWeight":"400"}}} -->
+<p style="font-size:14px;font-style:italic;font-weight:400"><strong>Disclaimer:</strong> Although the facility and equipment used to produce LAPL are FDA-compliant and our therapy is registered with the FDA, this procedure is not FDA-approved. FDA-registered means that physicians can prescribe and administer this therapy with the patient's consent if they believe it is in the best interest of their patient.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Reference</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"15px","fontStyle":"italic"}}} -->
+<p style="font-size:15px;font-style:italic">Centeno C, Markle J, Dodson E, Stemper I, Hyzy M, Williams C, Freeman M. The use of lumbar epidural injection of platelet lysate for treatment of radicular pain. <em>Journal of Experimental Orthopedics</em> (2017) 4:38-49.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#eaf6fa"},"spacing":{"padding":{"top":"60px","bottom":"60px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#eaf6fa;padding-top:60px;padding-right:32px;padding-bottom:60px;padding-left:32px">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"28px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:28px">Interested in offering LAPL to your patients?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-background-color has-background wp-element-button" href="/contact-us/" style="border-radius:4px">Contact Our Team</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":"4px","width":"2px","color":"#0e2c40"},"color":{"text":"#0e2c40"}},"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-border-color wp-element-button" href="/for-clinicians/" style="border-color:#0e2c40;border-width:2px;border-radius:4px;color:#0e2c40">Clinician Resources</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1004</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[lapl-epidural-lower-back-pain]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1003</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[BMSC + LAPL for Orthopedic Use]]></title>
+		<link>https://cytoregenx.com/bmsc-lapl-orthopedic/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1005</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":55,"overlayColor":"black","minHeight":360,"minHeightUnit":"px","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(15,60,76) 0%,rgb(14,44,64) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(15,60,76) 0%,rgb(14,44,64) 100%);min-height:360px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px","letterSpacing":"3px"},"color":{"text":"#7fd5ea"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#7fd5ea;font-size:14px;letter-spacing:3px">ORTHOPEDIC REGENERATIVE THERAPY</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"46px","fontWeight":"700","lineHeight":"1.15"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:46px;font-weight:700;line-height:1.15">Bone Marrow Stem Cells + LAPL<br>for Orthopedic Use</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:20px">A proprietary technology to improve the efficiency of stem cell therapy</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"style":{"typography":{"fontSize":"30px"},"color":{"text":"#0a4d64"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0a4d64;font-size:30px">What Are Bone Marrow Stromal Cells?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li>Bone Marrow Stromal Cells (BMSCs) are cells in bone marrow that function as stem cells to create bone, cartilage, and other tissues.</li><li>BMSCs can differentiate into osteocytes, chondrocytes, adipocytes, and fibroblasts — making them versatile for tissue repair, especially orthopedic use.</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"style":{"typography":{"fontSize":"30px"},"color":{"text":"#0a4d64"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0a4d64;font-size:30px">What Is Laser Activated Platelet Lysate?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li>Platelet Lysate (PL) is a lysate made of concentrated platelets after removing plasma and other blood cells.</li><li>Low-Level Laser (LLL) activation of platelets enhances the production and release of growth factors and ATP, boosting regenerative capacity.</li><li>Laser-Activated PL (LAPL) has <strong>synergistic therapeutic effects with BMSCs</strong>.</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"60px","bottom":"60px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#f7fafc;padding-top:60px;padding-right:32px;padding-bottom:60px;padding-left:32px">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:34px">Clinical Applications</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"17px"}}} -->
+<p class="has-text-align-center" style="font-size:17px">BMSCs supplemented with cytokine-rich LAPL offer a promising approach for two major orthopedic categories.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide">
+<!-- wp:column {"style":{"color":{"background":"#ffffff"},"spacing":{"padding":{"top":"32px","right":"32px","bottom":"32px","left":"32px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:8px;background-color:#ffffff;padding-top:32px;padding-right:32px;padding-bottom:32px;padding-left:32px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0e2c40"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0e2c40">Spine Applications</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>BMSCs can differentiate into cells resembling nucleus pulposus cells, producing extracellular matrix components and modulating the inflammatory response — an ideal profile for disc disease.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Intervertebral Disc Degeneration (IVDD)</li><li>Disc Bulging</li><li>Annular Tears</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#ffffff"},"spacing":{"padding":{"top":"32px","right":"32px","bottom":"32px","left":"32px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:8px;background-color:#ffffff;padding-top:32px;padding-right:32px;padding-bottom:32px;padding-left:32px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0e2c40"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0e2c40">Osteoarthritis &amp; Joint Disease</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>BMSC-LAPL is enriched in PDGF, IGF-I, TGF-β, PGE2, and ATP. These factors promote cartilage repair, decrease pain and inflammation, and inhibit osteophyte formation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Degenerative Joint Disease (DJD)</li><li>Knee</li><li>Shoulder</li><li>Elbow</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"32px"}}} -->
+<h2 class="wp-block-heading" style="font-size:32px">Our Technology</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li><strong>FDA-registered, cGMP processing facility</strong></li><li>Validated product with known cell number and viability, defined cytokine profile, and verified sterility and endotoxin levels</li><li>Concentrated BMSCs in small volume of highly concentrated cytokines and ATP — ideal for orthopedic use</li><li>Proprietary technology for the preparation of laser-activated platelet lysate</li><li>Sustaining proliferation and differentiation of BMSCs at the site of injection</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#fff8e8"},"spacing":{"padding":{"top":"28px","right":"28px","bottom":"28px","left":"28px"}},"border":{"radius":"6px","width":"1px","color":"#f5d07a"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-color:#f5d07a;border-width:1px;border-radius:6px;background-color:#fff8e8;padding-top:28px;padding-right:28px;padding-bottom:28px;padding-left:28px">
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px","fontStyle":"italic"}}} -->
+<p style="font-size:14px;font-style:italic"><strong>Disclaimer:</strong> Research into the different applications of bone marrow cells and platelet-derived products is promising and rapidly growing. Although the facility and equipment used to produce BMSC-LAPL are FDA-compliant and our therapy is registered with the FDA, this procedure is considered investigational and has not been officially approved by the FDA. Because BMSCs and LAPL are derived from the patient's own bone marrow and blood, they are not considered drugs. FDA-registered means that physicians can prescribe and administer this therapy with patient consent if they believe it is in the patient's best interest. However, lack of FDA approval means BMSC-LAPL treatments may not be covered by insurance.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#0e2c40"},"spacing":{"padding":{"top":"60px","bottom":"60px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#0e2c40;padding-top:60px;padding-right:32px;padding-bottom:60px;padding-left:32px">
+<!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontSize":"28px"}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:28px">Ready to learn more?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#e0f0f8"},"typography":{"fontSize":"17px"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:17px">Our team can walk you through the clinical protocol and onboarding process.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"white","textColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background wp-element-button" href="/contact-us/" style="border-radius:4px">Contact Our Team</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1005</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bmsc-lapl-orthopedic]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1003</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[DERMATOGEN® for Wound Healing]]></title>
+		<link>https://cytoregenx.com/dermatogen-wound-healing/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1006</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":55,"overlayColor":"black","minHeight":360,"minHeightUnit":"px","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(88,28,108) 0%,rgb(14,44,64) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(88,28,108) 0%,rgb(14,44,64) 100%);min-height:360px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px","letterSpacing":"3px"},"color":{"text":"#c9a6e8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a6e8;font-size:14px;letter-spacing:3px">REGENERATIVE WOUND HEALING</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"52px","fontWeight":"700","lineHeight":"1.1"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:52px;font-weight:700;line-height:1.1">DERMATOGEN®</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:20px">Laser Activated Platelet Lysate + Collagen for Wound Healing</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading" style="font-size:34px">What Is Regenerative Wound Healing?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.75"}}} -->
+<p style="font-size:17px;line-height:1.75">Regenerative wound healing is a procedure that involves advanced therapeutic modalities to promote the body's natural healing process, repair damaged tissues, and restore function in chronic or non-healing wounds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.75"}}} -->
+<p style="font-size:17px;line-height:1.75">Wound healing is a complex biological process traditionally divided into four stages: <strong>Hemostasis, Inflammation, Proliferation, and Remodeling</strong>. These stages ensure the body stops bleeding, prevents infection, and restores the skin's structural integrity.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"50px","right":"40px","bottom":"50px","left":"40px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:50px;padding-right:40px;padding-bottom:50px;padding-left:40px">
+<!-- wp:heading {"style":{"typography":{"fontSize":"30px"}}} -->
+<h2 class="wp-block-heading" style="font-size:30px">Why Laser Activated Platelet Lysate?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li>Platelet Lysate is extracted from concentrated platelets after removing red blood cells, white blood cells, cellular fragments, and most plasma.</li><li>It contains various <strong>growth factors</strong> that stimulate tissue regeneration and healing at the treated area.</li><li>Platelet Lysate reduces inflammation and pain, and helps prevent infection at the site of injection.</li><li><strong>Low-Level Laser activation</strong> enhances the production and release of growth factors and ATP, amplifying regenerative properties.</li><li>LAPL has direct regenerative effects at the administration site, with <strong>synergistic therapeutic effects when combined with collagen</strong>.</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading" style="font-size:34px">Why Collagen and LAPL?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.75"}}} -->
+<p style="font-size:17px;line-height:1.75">Collagen is the major matrix protein abundantly present in the skin, playing a critical role in skin structure and elasticity. When collagen and platelet lysate are mixed, they form a <strong>hydrogel</strong> that sustains LAPL's active ingredients and can be readily applied to wounds.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#390f6f"},"spacing":{"padding":{"top":"60px","bottom":"60px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#390f6f;padding-top:60px;padding-right:32px;padding-bottom:60px;padding-left:32px">
+<!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:34px">How DERMATOGEN® Works</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#e8dcf5"},"typography":{"fontSize":"17px","lineHeight":"1.7"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e8dcf5;font-size:17px;line-height:1.7">LAPL contains highly concentrated cytokines and growth factors — EGF, FGF, PDGF, and VEGF — all of which promote wound healing. It also contains anti-inflammatory, analgesic, and antiseptic factors to prevent infection, reduce pain, and lower inflammation. Collagen-I forms a gel with LAPL that helps wounds retain moisture and allows gradual absorption of the active ingredients.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading" style="font-size:34px">The CytoRegenx Unique Approach</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DERMATOGEN® is superior to other wound-healing products on several key dimensions:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li><strong>Cytokine-rich Platelet Lysate</strong> from the patient's own blood stimulates skin regeneration</li><li><strong>Proprietary laser activation</strong> boosts regenerative capacity beyond standard PRP</li><li><strong>Injectable and topical</strong> dual-delivery approach maximizes skin regeneration and minimizes scar formation</li><li><strong>Collagen + LAPL combination</strong> accelerates the healing process</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:34px">Wound Types Treated</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide">
+<!-- wp:column {"style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"30px","right":"28px","bottom":"30px","left":"28px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:30px;padding-right:28px;padding-bottom:30px;padding-left:28px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64">Chronic Non-Healing Wounds</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Often respond especially well to the regenerative wound healing approach:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Diabetic foot ulcers</li><li>Venous leg ulcers</li><li>Pressure sores (bed sores)</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"30px","right":"28px","bottom":"30px","left":"28px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:30px;padding-right:28px;padding-bottom:30px;padding-left:28px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64">Acute Injuries</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Heal more rapidly and with improved tissue quality when treated with regenerative therapy:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Surgical incisions</li><li>Burns</li><li>Traumatic wounds</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"32px"}}} -->
+<h2 class="wp-block-heading" style="font-size:32px">Our Technology</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li><strong>FDA-registered, cGMP processing facility</strong></li><li>Validated product with known cell count, defined cytokine profile, and verified sterility and endotoxin level</li><li>Concentrated cytokines and ATP solution in collagen hydrogel — ideal for wound healing</li><li>Proprietary technology for laser activation of platelet lysate</li><li>Sustaining cytokines and LAPL active ingredients at the site of the wound</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#fff8e8"},"spacing":{"padding":{"top":"28px","right":"28px","bottom":"28px","left":"28px"}},"border":{"radius":"6px","width":"1px","color":"#f5d07a"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-color:#f5d07a;border-width:1px;border-radius:6px;background-color:#fff8e8;padding-top:28px;padding-right:28px;padding-bottom:28px;padding-left:28px">
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px","fontStyle":"italic"}}} -->
+<p style="font-size:14px;font-style:italic"><strong>Disclaimer:</strong> Although the facility and equipment used to produce LAPL are FDA-compliant and our therapy is registered with the FDA, this procedure is not FDA-approved. FDA-registered means that physicians can prescribe and administer this therapy with the patient's consent if they believe it is in the best interest of their patient.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#eaf6fa"},"spacing":{"padding":{"top":"60px","bottom":"60px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#eaf6fa;padding-top:60px;padding-right:32px;padding-bottom:60px;padding-left:32px">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"28px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:28px">Interested in offering DERMATOGEN® in your practice?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-background-color has-background wp-element-button" href="/contact-us/" style="border-radius:4px">Contact Our Team</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1006</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dermatogen-wound-healing]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1003</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Research & Innovation]]></title>
+		<link>https://cytoregenx.com/research-innovation/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1007</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":50,"overlayColor":"black","minHeight":340,"minHeightUnit":"px","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%);min-height:340px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-50 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"48px","fontWeight":"700"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:48px;font-weight:700">Research &amp; Innovation</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:20px">Advancing regenerative medicine through innovation</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"38px"}}} -->
+<h2 class="wp-block-heading" style="font-size:38px">Innovation Drives Everything We Do</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px","lineHeight":"1.75"}}} -->
+<p style="font-size:18px;line-height:1.75">At CytoRegenx, our work is grounded in advanced cellular science, with a focus on developing laser-activated and cGMP-produced cell products that support the body's natural healing processes.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"50px","right":"40px","bottom":"50px","left":"40px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-group alignwide has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:50px;padding-right:40px;padding-bottom:50px;padding-left:40px">
+<!-- wp:heading {"style":{"typography":{"fontSize":"30px"}}} -->
+<h2 class="wp-block-heading" style="font-size:30px">Our Technology Platform</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"typography":{"fontSize":"17px","lineHeight":"1.8"}}} -->
+<ul style="font-size:17px;line-height:1.8"><li><strong>FDA-registered cGMP processing facility</strong></li><li>Validated products with known cell number and viability, defined cytokine profile, and known sterility and endotoxin level</li><li><strong>Patient-specific products</strong> made of concentrated therapeutic cells in a small volume of highly concentrated cytokines and ATP — ideal for orthopedic use</li><li><strong>Proprietary laser-activation technology</strong> for the preparation of platelet lysate</li><li>Sustained proliferation and differentiation of therapeutic cells at the site of injection</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading" style="font-size:34px">The Science of Laser Activation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.75"}}} -->
+<p style="font-size:17px;line-height:1.75">Platelets in their resting state store large quantities of growth factors and bioactive molecules in α-granules. Low-Level Laser (LLL) irradiation — using a plasma-arc light source in the 600–1200 nm near-infrared range — triggers exocytosis, releasing these factors into the surrounding lysate at concentrations significantly higher than mechanical activation alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.75"}}} -->
+<p style="font-size:17px;line-height:1.75">The result is a cytokine cocktail that includes <strong>TGF-β, b-FGF, PDGF, VEGF, EGF, IGF-I</strong>, and abundant ATP. Our internal data shows BDNF levels in Laser Activated PL significantly exceed those in standard PL — a profile especially valuable for neural regeneration applications.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"32px"}}} -->
+<h2 class="wp-block-heading" style="font-size:32px">Published Research</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Our therapeutic approach is supported by peer-reviewed literature on platelet lysate epidural injection:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"24px","right":"24px","bottom":"24px","left":"24px"}},"border":{"radius":"6px","left":{"width":"4px","color":"#0a4d64"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#0a4d64;border-left-width:4px;border-radius:6px;background-color:#f7fafc;padding-top:24px;padding-right:24px;padding-bottom:24px;padding-left:24px">
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"15px","fontStyle":"italic","lineHeight":"1.6"}}} -->
+<p style="font-size:15px;font-style:italic;line-height:1.6">Centeno C, Markle J, Dodson E, Stemper I, Hyzy M, Williams C, Freeman M. The use of lumbar epidural injection of platelet lysate for treatment of radicular pain. <em>Journal of Experimental Orthopedics</em> (2017) 4:38-49.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"15px"}}} -->
+<p style="font-size:15px">Patients treated with PL epidurals reported significant improvement in pain and subjective improvements through 2-year follow-up.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1007</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[research-innovation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[For Clinicians]]></title>
+		<link>https://cytoregenx.com/for-clinicians/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1008</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":50,"overlayColor":"black","minHeight":340,"minHeightUnit":"px","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(14,44,64) 0%,rgb(10,77,100) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(14,44,64) 0%,rgb(10,77,100) 100%);min-height:340px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-50 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"48px","fontWeight":"700"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:48px;font-weight:700">For Clinicians</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:20px">Everything you need to integrate LAPL and BMSC therapies into your practice</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading" style="font-size:34px">Blood Collection &amp; Shipment Protocol</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.75"}}} -->
+<p style="font-size:17px;line-height:1.75">The CytoRegenx workflow is designed to integrate seamlessly into any clinical practice. Collection is straightforward, and we handle logistics end-to-end.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide">
+<!-- wp:column {"style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"32px","right":"28px","bottom":"32px","left":"28px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:32px;padding-right:28px;padding-bottom:32px;padding-left:28px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"},"typography":{"fontSize":"40px"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64;font-size:40px">1</h3>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Draw Blood Sample</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Draw <strong>30 mL of whole blood</strong> into the designated PRP collection tube supplied by CytoRegenx.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"32px","right":"28px","bottom":"32px","left":"28px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:32px;padding-right:28px;padding-bottom:32px;padding-left:28px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"},"typography":{"fontSize":"40px"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64;font-size:40px">2</h3>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Ship Same Day</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Place in the provided validated shipper box and send to CytoRegenx the <strong>same day</strong> as the draw.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"32px","right":"28px","bottom":"32px","left":"28px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:32px;padding-right:28px;padding-bottom:32px;padding-left:28px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0a4d64"},"typography":{"fontSize":"40px"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0a4d64;font-size:40px">3</h3>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Receive Product</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We process the sample in our cGMP facility and return the validated LAPL product ready for injection.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"style":{"typography":{"fontSize":"30px"}}} -->
+<h2 class="wp-block-heading" style="font-size:30px">Logistics &amp; Shipping</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"20px"}}} -->
+<h3 class="wp-block-heading" style="font-size:20px">Orange County Clinics</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>A dedicated courier retrieves the specimen directly from your clinic and transports it to our facility — no shipping paperwork required.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"20px"}}} -->
+<h3 class="wp-block-heading" style="font-size:20px">Clinics Nationwide</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>A prepaid shipping label is issued for seamless pickup and delivery through an approved overnight carrier.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#0e2c40"},"spacing":{"padding":{"top":"60px","bottom":"60px","left":"32px","right":"32px"}}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#0e2c40;padding-top:60px;padding-right:32px;padding-bottom:60px;padding-left:32px">
+<!-- wp:heading {"align":"wide","style":{"color":{"text":"#ffffff"},"typography":{"fontSize":"30px"}}} -->
+<h2 class="wp-block-heading alignwide has-text-color" style="color:#ffffff;font-size:30px">Regulatory Status</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"wide","style":{"color":{"text":"#e0f0f8"},"typography":{"fontSize":"17px","lineHeight":"1.75"}}} -->
+<p class="alignwide has-text-color" style="color:#e0f0f8;font-size:17px;line-height:1.75">The facility and equipment used to produce our products are FDA-compliant, and our therapies are registered with the FDA. These procedures are not FDA-approved. FDA-registered means that physicians can prescribe and administer this therapy with patient consent if they believe it is in the best interest of their patient. Because our products are derived from the patient's own blood or bone marrow, they are not considered drugs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"wide","style":{"color":{"text":"#e0f0f8"},"typography":{"fontSize":"17px","lineHeight":"1.75"}}} -->
+<p class="alignwide has-text-color" style="color:#e0f0f8;font-size:17px;line-height:1.75">Lack of FDA approval means that BMSC-LAPL treatments may not be covered by insurance.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"28px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:28px">Ready to get started?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Our team will walk you through onboarding, collection kits, and clinical protocols.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"black","style":{"border":{"radius":"4px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-background-color has-background wp-element-button" href="/contact-us/" style="border-radius:4px">Contact Our Team</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1008</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[for-clinicians]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[News & Updates]]></title>
+		<link>https://cytoregenx.com/news-updates/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1009</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":50,"overlayColor":"black","minHeight":300,"minHeightUnit":"px","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%);min-height:300px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-50 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"48px","fontWeight":"700"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:48px;font-weight:700">News &amp; Updates</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:20px">Announcements, research highlights, and company updates</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"34px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-size:34px">Stay Connected</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"17px","lineHeight":"1.75"}}} -->
+<p class="has-text-align-center" style="font-size:17px;line-height:1.75">We publish updates on new clinical collaborations, research findings, facility certifications, and therapy availability. Check back soon for our first posts — or <a href="/contact-us/">contact us</a> to be added to our clinician newsletter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"50px","right":"40px","bottom":"50px","left":"40px"}},"border":{"radius":"8px"}},"align":"wide"} -->
+<div class="wp-block-group alignwide has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:50px;padding-right:40px;padding-bottom:50px;padding-left:40px">
+<!-- wp:heading {"level":3,"textAlign":"center"} -->
+<h3 class="wp-block-heading has-text-align-center">Coming Soon</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Our news feed is in preparation. Follow us for announcements on new product launches, clinical partnerships, and peer-reviewed publications.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1009</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[news-updates]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Contact Us]]></title>
+		<link>https://cytoregenx.com/contact-us/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?page_id=1010</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":50,"overlayColor":"black","minHeight":340,"minHeightUnit":"px","align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%)"}}} -->
+<div class="wp-block-cover alignfull" style="background:linear-gradient(135deg,rgb(14,44,64) 0%,rgb(15,111,143) 100%);min-height:340px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-50 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"48px","fontWeight":"700"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:48px;font-weight:700">Contact Us</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#e0f0f8"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#e0f0f8;font-size:20px">Personalized support for clinicians, partners, and patients</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide">
+<!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%">
+<!-- wp:heading {"style":{"typography":{"fontSize":"28px"}}} -->
+<h2 class="wp-block-heading" style="font-size:28px">Get in Touch</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":"1.7"}}} -->
+<p style="font-size:16px;line-height:1.7"><strong>CytoRegenx Inc.</strong><br>Santa Ana - Tustin Medical Center<br><a href="https://maps.app.goo.gl/ig3Vdhkp4phWUmkh9" target="_blank" rel="noopener">801 N. Tustin Ave., Suite 604<br>Santa Ana, CA 92705</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":"1.7"}}} -->
+<p style="font-size:16px;line-height:1.7"><strong>Phone:</strong> <a href="tel:+17144861085">(714) 486-1085</a><br><strong>Email:</strong> <a href="mailto:info@cytoregenx.com">info@cytoregenx.com</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"20px"}}} -->
+<h3 class="wp-block-heading" style="font-size:20px">Office Hours</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":"1.7"}}} -->
+<p style="font-size:16px;line-height:1.7"><strong>Mon - Fri:</strong> 9:00 AM - 5:00 PM<br><strong>Saturday:</strong> 9:00 AM - 1:00 PM<br><strong>Sunday:</strong> Closed</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"60%","style":{"color":{"background":"#f7fafc"},"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-column has-background" style="border-radius:8px;background-color:#f7fafc;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px;flex-basis:60%">
+<!-- wp:heading {"style":{"typography":{"fontSize":"28px"}}} -->
+<h2 class="wp-block-heading" style="font-size:28px">Send Us a Message</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
+<p style="font-size:14px">"*" indicates required fields</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[gravityform id="1" title="false" description="false" ajax="true"]
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"13px","fontStyle":"italic"},"color":{"text":"#64748b"}}} -->
+<p class="has-text-color" style="color:#64748b;font-size:13px;font-style:italic">If the contact form above is not yet configured, please email us directly at <a href="mailto:info@cytoregenx.com">info@cytoregenx.com</a>.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1010</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2001</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2001</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1001]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[About]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2002</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2002</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2002]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1002]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Our Services]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2003</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2003</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2003]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1003]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[LAPL Epidural]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2004</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2004</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2004]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[2003]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1004]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[BMSC Orthopedic]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2005</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2005</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2005]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[2003]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1005]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[DERMATOGEN® Wound]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2006</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2006</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2006]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[2003]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1006]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Research]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2007</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2007</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2007]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1007]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[For Clinicians]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2008</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2008</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2008]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1008]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[News]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2009</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2009</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2009]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1009]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=2010</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2010</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2010]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1010]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[About]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=3001</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3001</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[3001]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="footer-menu"><![CDATA[footer-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1002]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Services]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=3002</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3002</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[3002]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="footer-menu"><![CDATA[footer-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1003]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Research]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=3003</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3003</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[3003]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="footer-menu"><![CDATA[footer-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1007]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[For Clinicians]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=3004</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3004</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[3004]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="footer-menu"><![CDATA[footer-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1008]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://cytoregenx.com/</link>
+		<pubDate>Sun, 19 Apr 2026 19:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[116154pwpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://cytoregenx.com/?p=3005</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3005</wp:post_id>
+		<wp:post_date><![CDATA[2026-04-19 19:51:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-04-19 19:51:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-04-19 19:51:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[3005]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="footer-menu"><![CDATA[footer-menu]]></category>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1010]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+	</item>
+</channel>
+</rss>
