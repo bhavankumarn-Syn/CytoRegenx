@@ -1,92 +1,108 @@
-# CytoRegenx — New WordPress Site
+# CytoRegenX — React + Vite
 
-This package generates a complete, theme-agnostic WordPress site for **CytoRegenx Inc.** built from your existing WP export and the three product brochures (LAPL Epidural, BMSC Orthopedic, DERMATOGEN®).
+The CytoRegenX marketing site, rebuilt as a React single-page application with
+Vite. The design, layout, copy, colors, fonts, and animations are identical to
+the original single-file HTML build — only the implementation changed.
 
-## What's in the box
+## Requirements
 
-| File | Purpose |
-|---|---|
-| `cytoregenx-new-site.xml` | **The main deliverable.** WordPress WXR import file — 10 pages + 2 navigation menus, all built with native Gutenberg blocks so it works in *any* modern theme. |
-| `preview.html` | Standalone HTML preview of the visual direction (home page). Open in a browser to see the design before importing. |
-| `README.md` | This file. |
+- Node.js 18+ (Node 20+ recommended)
+- npm
 
-## The 10 pages
-
-| # | Page | Slug |
-|---|---|---|
-| 1 | Home *(set as front page)* | `home` |
-| 2 | About CytoRegenx | `about-cytoregenx` |
-| 3 | Our Services *(parent)* | `our-services` |
-| 4 | LAPL Epidural for Lower Back Pain | `lapl-epidural-lower-back-pain` |
-| 5 | BMSC + LAPL for Orthopedic Use | `bmsc-lapl-orthopedic` |
-| 6 | DERMATOGEN® for Wound Healing | `dermatogen-wound-healing` |
-| 7 | Research & Innovation | `research-innovation` |
-| 8 | For Clinicians | `for-clinicians` |
-| 9 | News & Updates | `news-updates` |
-| 10 | Contact Us | `contact-us` |
-
-Plus two menus: **Main Menu** (header, 10 items) and **Footer Menu** (footer, 5 items).
-
-## Design system
-
-- **Colors:** Navy `#0E2C40`, Teal `#0A4D64` / `#0F6F8F`, Cyan accent `#7FD5EA`, light bg `#F7FAFC` / `#EAF6FA`. DERMATOGEN® page uses purple `#390F6F` as accent.
-- **Blocks used:** `wp:cover`, `wp:columns`, `wp:group`, `wp:heading`, `wp:paragraph`, `wp:buttons`, `wp:list`, `wp:table`, `wp:spacer` — nothing page-builder-specific. No Beaver Builder, Elementor, or Divi lock-in.
-- **Regulatory language:** Every product page includes the FDA-registered-vs-FDA-approved disclaimer in a visually distinct amber callout, preserving the exact language from your brochures.
-- **Contact form:** Uses `[gravityform id="1"]` shortcode — assumes your existing Gravity Form ID 1 is still in place. If not, replace with your preferred form plugin shortcode after import.
-
-## Import steps
-
-### 1. Install the WordPress Importer plugin
-In WP admin: **Tools → Import → WordPress → Install Now → Run Importer**.
-
-### 2. Upload the XML
-Upload `cytoregenx-new-site.xml`. When prompted for author mapping:
-- The XML was authored as `116154pwpadmin` (matching your existing export).
-- Assign content to your existing admin user (recommended) or let the importer create the new user.
-- **Do NOT check "Download and import file attachments"** — the XML doesn't reference external media; you'll add images from the media library in step 5.
-
-### 3. Set the front page
-**Settings → Reading → Your homepage displays → A static page → Homepage: *Home***.
-
-### 4. Assign the menus
-**Appearance → Menus**:
-- Select "Main Menu" → Menu Settings → check **Primary** (or your theme's header location) → Save.
-- Select "Footer Menu" → check **Footer** (if your theme has one) → Save.
-
-### 5. Add images
-The XML uses color-block `wp:cover` hero sections rather than images, so the site is visually complete on import. To add the brochure images (LAPL diagrams, facility photos, BDNF chart, logo):
-- **Media → Add New** → upload the figures.
-- Edit each product page and replace the cover block's background color with the image, or add image blocks inline where the content references them.
-
-### 6. Verify
-Visit the front-end. You should see:
-- Hero on Home with three product cards below
-- Three product detail pages with comparison tables + disclaimers
-- Contact page with address, phone, email, and Gravity Form slot
-- Sticky header menu, footer menu
-
-## Regenerating the XML
-
-If you need to edit content and rebuild:
+## Getting started
 
 ```bash
-cd /path/to/cytoregenx
-python3 build_all.py
+npm install      # install dependencies
+npm run dev      # start the dev server (http://localhost:5173)
+npm run build    # production build → dist/
+npm run preview  # preview the production build locally
 ```
 
-The build scripts are modular:
-- `build_wxr.py` — home + about
-- `build_wxr_pt2.py` — services + LAPL Epidural
-- `build_wxr_pt3.py` — BMSC + DERMATOGEN + Research (content definitions)
-- `build_wxr_pt4.py` — Clinicians + Contact + News (content definitions)
-- `build_all.py` — orchestrator that runs all four parts, appends pages 1005–1010, builds menus, assembles the WXR XML
+## Project structure
 
-## Compliance notes
+```
+cytoregenx-react/
+├── index.html                 # Vite entry; loads Google Fonts + #root
+├── package.json
+├── vite.config.js
+└── src/
+    ├── main.jsx               # React root
+    ├── App.jsx                # composes all sections; reduced-motion handling
+    ├── index.css              # all styles (ported verbatim from the original)
+    └── components/
+        ├── HelixLogo.jsx      # animated DNA-helix logo (nav + footer variants)
+        ├── TopBar.jsx
+        ├── Nav.jsx            # sticky nav + mobile drawer (useState)
+        ├── Hero.jsx
+        ├── Founders.jsx
+        ├── Specialties.jsx
+        ├── Conditions.jsx
+        ├── Lab.jsx
+        ├── Clinical.jsx
+        ├── Compare.jsx        # PL vs PRP table
+        ├── Investment.jsx
+        ├── WhyWin.jsx
+        ├── ContactForm.jsx    # controlled form + anti-bot defenses
+        └── Footer.jsx
+```
 
-- The site preserves the exact FDA-registered vs FDA-approved language from your brochures — **not FDA-approved**, physician-prescribed autologous therapy at an FDA-registered, cGMP-compliant facility.
-- Research citations (Centeno et al. 2017) are kept intact on the LAPL page.
-- No medical claims have been added beyond what's in the source brochures.
+Repeated card/list content lives in small `const` arrays at the top of each
+section component, which then map over the data.
 
-## Support
+## Notes on the port
 
-To change copy, colors, or add more pages, edit the content blocks in `build_wxr*.py` and re-run `build_all.py`. The generated XML can be re-imported; WordPress will update existing pages (matched by slug) rather than duplicating.
+**Styles.** The entire original stylesheet was moved verbatim into
+`src/index.css` and imported once in `main.jsx`. One rule was added —
+`.logo-mark-wrap` — as a wrapper for the injected logo SVG. Nothing else changed.
+
+**The helix logo.** `HelixLogo.jsx` injects the SVG as raw markup
+(`dangerouslySetInnerHTML`) so the geometry and self-contained SMIL animation
+render byte-for-byte identical to the original. Pass `variant="nav"` (light
+background) or `variant="footer"` (brightened, for the dark footer).
+
+**Mobile navigation.** The hamburger drawer is React state in `Nav.jsx`. It
+closes on link tap, on `Escape`, and when the viewport grows back to desktop.
+
+**Reduced motion.** `App.jsx` checks `prefers-reduced-motion` on mount and calls
+`pauseAnimations()` on the logo SVGs for users who request reduced motion.
+
+**Contact form.** `ContactForm.jsx` is a fully controlled form. All five
+anti-bot layers from the original are preserved as React state/refs:
+
+1. Honeypot field (`website`) — hidden from humans; if filled, a fake success
+   is shown and the payload is discarded.
+2. Timing check — submissions faster than 3 seconds are rejected.
+3. Runtime math challenge — regenerated on every load and after each attempt.
+4. Form token — generated client-side; regenerated after a successful send.
+5. Native HTML5 validation via `checkValidity()` / `reportValidity()`.
+
+### Wiring the form to a backend
+
+The form currently simulates submission. In `ContactForm.jsx`, find the
+`INTEGRATION POINT` comment inside `handleSubmit` and replace the `setTimeout`
+block with a real request. The assembled `data` object is ready to send:
+
+```js
+// Formspree
+fetch('https://formspree.io/f/YOUR_FORM_ID', {
+  method: 'POST',
+  headers: { Accept: 'application/json', 'Content-Type': 'application/json' },
+  body: JSON.stringify(data),
+})
+
+// or a custom endpoint
+fetch('/api/contact', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify(data),
+})
+```
+
+Keep the `showFeedback(...)` success/error calls so the user still gets
+confirmation, and keep the `rollMath()` / `setToken(makeToken())` calls so the
+form can be submitted again.
+
+## Deployment
+
+`npm run build` outputs a static site to `dist/`, deployable to any static host
+(Netlify, Vercel, Cloudflare Pages, S3, etc.). No server is required.
